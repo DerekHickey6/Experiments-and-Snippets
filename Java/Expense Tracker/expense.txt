@@ -1,0 +1,5 @@
+rent	2500.0
+food and grocery	1000.0
+internet	89.99
+gas	300.5
+entertainment	555.0
