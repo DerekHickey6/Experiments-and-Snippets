@@ -33,9 +33,3 @@ This repository exists to:
 This repository complements my larger projects by showing how I learn, reason, and experiment across multiple layers of the stack.
 
 For fully scoped projects, see my dedicated repositories.
-
-
-## Structure
-
-The structure evolves over time, but typically follows patterns such as:
-
